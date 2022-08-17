@@ -1,0 +1,18 @@
+h1{
+    border: 3px dashed coral;
+    color: brown;
+    
+    
+}
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.container
+{
+    border: 2px solid green;
+    font-size: 1.5rem;
+    margin: 1em;
+}
